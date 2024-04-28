@@ -33,13 +33,6 @@ python main.py
 
 The script will initiate a speed test and display the results, including download speed, upload speed, and ping.
 
-## Example Output
-
-```
-![Example Image](Screenshot 2024-04-28 160356.png)	
-
-```
-
 ## Acknowledgments
 
 - This project uses the [speedtest-cli](https://github.com/sivel/speedtest-cli) library by Sivel for performing speed tests.
