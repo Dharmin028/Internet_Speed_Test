@@ -1,6 +1,6 @@
-![Screenshot 2024-04-27 001449](https://github.com/Dharmin028/Internet_Speed_Test/assets/131357439/c628f248-94f7-4782-ba8d-d2830089ccff)# Internet Speed Tester
+# Internet Speed Tester
 
-Internet Speed Tester is a Python script that allows you to test your internet connection speed using speedtest.net's infrastructure. It measures your download speed, upload speed, and ping, providing you with valuable insights into your internet connection performance.
+Internet Speed Tester is a Python script that allows you to test your internet connection speed using speedtest.net's infrastructure. It measures your download speed, upload speed providing you with valuable insights into your internet connection performance.
 
 ## Installation
 
@@ -36,7 +36,8 @@ The script will initiate a speed test and display the results, including downloa
 ## Example Output
 
 ```
-![Uploading Screenshot 2024-04-28 160356.png…]()
+![Screenshot 2024-04-28 160356](https://github.com/Dharmin028/Internet_Speed_Test/assets/131357439/9ae17d54-d3e6-493f-94dd-2a7ea4870e17)
+
 ```
 
 ## Acknowledgments
