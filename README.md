@@ -36,8 +36,7 @@ The script will initiate a speed test and display the results, including downloa
 ## Example Output
 
 ```
-![Screenshot 2024-04-28 160356](https://github.com/Dharmin028/Internet_Speed_Test/assets/131357439/9ae17d54-d3e6-493f-94dd-2a7ea4870e17)
-
+"C:\Users\dharm\OneDrive\Pictures\Screenshots\Screenshot 2024-04-28 160356.png"
 ```
 
 ## Acknowledgments
