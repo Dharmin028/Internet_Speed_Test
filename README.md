@@ -36,7 +36,7 @@ The script will initiate a speed test and display the results, including downloa
 ## Example Output
 
 ```
-<img align="left" alt="Sample"  src=https://github.com/Dharmin028/Internet_Speed_Test/blob/main/Screenshot%202024-04-28%20160356.png>	
+![Example Image](Screenshot 2024-04-28 160356.png)	
 
 ```
 
