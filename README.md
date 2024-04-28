@@ -37,6 +37,7 @@ The script will initiate a speed test and display the results, including downloa
 
 ```
 https://github.com/Dharmin028/Internet_Speed_Test/blob/main/Screenshot%202024-04-28%20160356.png
+<img src="Screenshot%202024-04-28%20160356.png" width="128"/>
 ```
 
 ## Acknowledgments
